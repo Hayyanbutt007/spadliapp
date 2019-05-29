@@ -1,0 +1,42 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-browsertab": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-email-composer": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.ionicbucket.travelagencykit"
+    }
+  }
+}
