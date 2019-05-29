@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+provider#de.appplant.cordova.emailcomposer.Provider
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:12:106-140
+	android:authorities
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:12:19-80
+	android:exported
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:12:81-105
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:12:141-198
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:15:9-17:20
+	android:grantUriPermissions
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:15:92-126
+	android:authorities
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:15:19-66
+	android:exported
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:15:67-91
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:15:127-180
+provider#nl.xservices.plugins.FileProvider
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:grantUriPermissions
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:23:100-134
+	android:authorities
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:23:19-74
+	android:exported
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:23:75-99
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:23:135-183
+manifest
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\6e4036c842a9e381fb197c65904db3df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37f6891e63b0bff1c32b67b20fd89059\AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8eb4a78e1969fa062d7743a5799cfb6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ddea802d0528eea574485ca42169fdb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ff5c099bac6871c3731d09ae6577d34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1711867337cf82a56d45e85bab4b0c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e7576f0c67100e803d580f76ad7632bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b94181e2c0a1a3dd4516a002b826e420\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3e69e0ca54ef43b4aa5494ea5038653\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6eec1e8b4a215f6c3b2b0ccefd1ac1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2b2f04f063d98b2d3364bffeae1a682\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:102-143
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:144-202
+	android:versionCode
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\6e4036c842a9e381fb197c65904db3df\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\6e4036c842a9e381fb197c65904db3df\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#com.ionicbucket.travelagencykit.MainActivity
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+receiver#nl.xservices.plugins.ShareChooserPendingIntent
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:18:9-22:20
+	android:enabled
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:18:19-41
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:18:42-103
+intent-filter#android.intent.action.SEND
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:19:13-21:29
+action#android.intent.action.SEND
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:20:25-66
+uses-sdk
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:27:5-74
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:27:5-74
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\6e4036c842a9e381fb197c65904db3df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\6e4036c842a9e381fb197c65904db3df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37f6891e63b0bff1c32b67b20fd89059\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\37f6891e63b0bff1c32b67b20fd89059\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8eb4a78e1969fa062d7743a5799cfb6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8eb4a78e1969fa062d7743a5799cfb6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ddea802d0528eea574485ca42169fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ddea802d0528eea574485ca42169fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ff5c099bac6871c3731d09ae6577d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ff5c099bac6871c3731d09ae6577d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1711867337cf82a56d45e85bab4b0c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1711867337cf82a56d45e85bab4b0c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e7576f0c67100e803d580f76ad7632bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e7576f0c67100e803d580f76ad7632bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b94181e2c0a1a3dd4516a002b826e420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b94181e2c0a1a3dd4516a002b826e420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3e69e0ca54ef43b4aa5494ea5038653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3e69e0ca54ef43b4aa5494ea5038653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6eec1e8b4a215f6c3b2b0ccefd1ac1ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6eec1e8b4a215f6c3b2b0ccefd1ac1ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2b2f04f063d98b2d3364bffeae1a682\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hayyan butt\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2b2f04f063d98b2d3364bffeae1a682\AndroidManifest.xml:20:5-44
+INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:27:5-74
+	android:targetSdkVersion
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:27:42-71
+	android:minSdkVersion
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:27:15-41
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:28:22-78
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:13:13-130
+	android:resource
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:13:75-127
+	android:name
+		ADDED from C:\xampp\htdocs\TravelApp\TravelAgency\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
