@@ -1,6 +1,6 @@
 webpackJsonp([35],{
 
-/***/ 1032:
+/***/ 1033:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -61,7 +61,7 @@ var CarSliderPage = /** @class */ (function () {
     ], CarSliderPage.prototype, "slider", void 0);
     CarSliderPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-car-slider',template:/*ion-inline-start:"C:\xampp\htdocs\TravelApp\TravelAgency\src\pages\car\car-tabs\car-slider\car-slider.html"*/'<!-- Slider View of Car List  -->\n<ion-content padding>\n  <ion-slides padding-left padding-right #slider slidesPerView="1.2" loop="true" effect="slide" autoplay="5000" style="direction:ltr">\n    <!-- List of Cars  -->\n    <ion-slide *ngFor="let car of cars">\n      <ion-card padding>\n\n        <!-- Car Name  -->\n        <p class="car-name">{{car.name}}</p>\n\n        <!-- Car Type  -->\n        <p class="car-type">\n          <ion-badge item-end color="color2">{{car.carType}}</ion-badge>\n        </p>\n        <!-- Car Image  -->\n        <img [src]="car.image" imageViewer>\n\n        <!-- Select Option Button  -->\n        <button ion-button block class="custom-btn" (tap)="viewDetails(car)">Select</button>\n      </ion-card>\n    </ion-slide>\n  </ion-slides>\n</ion-content>'/*ion-inline-end:"C:\xampp\htdocs\TravelApp\TravelAgency\src\pages\car\car-tabs\car-slider\car-slider.html"*/,
+            selector: 'page-car-slider',template:/*ion-inline-start:"C:\xampp\htdocs\TravelApp\TravelAgency\spadliapp\src\pages\car\car-tabs\car-slider\car-slider.html"*/'<!-- Slider View of Car List  -->\n<ion-content padding>\n  <ion-slides padding-left padding-right #slider slidesPerView="1.2" loop="true" effect="slide" autoplay="5000" style="direction:ltr">\n    <!-- List of Cars  -->\n    <ion-slide *ngFor="let car of cars">\n      <ion-card padding>\n\n        <!-- Car Name  -->\n        <p class="car-name">{{car.name}}</p>\n\n        <!-- Car Type  -->\n        <p class="car-type">\n          <ion-badge item-end color="color2">{{car.carType}}</ion-badge>\n        </p>\n        <!-- Car Image  -->\n        <img [src]="car.image" imageViewer>\n\n        <!-- Select Option Button  -->\n        <button ion-button block class="custom-btn" (tap)="viewDetails(car)">Select</button>\n      </ion-card>\n    </ion-slide>\n  </ion-slides>\n</ion-content>'/*ion-inline-end:"C:\xampp\htdocs\TravelApp\TravelAgency\spadliapp\src\pages\car\car-tabs\car-slider\car-slider.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["NavController"],
             __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["NavParams"],
@@ -75,7 +75,7 @@ var CarSliderPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 982:
+/***/ 983:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -83,7 +83,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CarSliderPageModule", function() { return CarSliderPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(12);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__car_slider__ = __webpack_require__(1032);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__car_slider__ = __webpack_require__(1033);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
